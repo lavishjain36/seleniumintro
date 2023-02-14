@@ -1,0 +1,84 @@
+What is Selenium Tool?
+What is Selenium Tool?:
+selinium:
+
+
+Use of Selenium Tool in Automation
+Features of Selenium Tool
+Selenium Components and Architecture
+Selenium IDE"
+
+
+selenium->
+Selenium is an open source software tool which is used to automate 
+web browser.it provided a features to user that can automate testing
+ of website like online shopping,banking,social media web,flight booking.
+
+
+java,python,ruby ,c#->programming language
+selenium driver:
+chrome,mozilla,safari,internet explorer.
+id,name,ckass,css selector,xpath
+actions=>click,scroll,type,drag and drop.
+with selenium->cross browser testing,regression testing and functional.
+
+
+
+Use of Selenium Tool in Automation:
+Use of Selenium Tool in Automation:
+selenium to automate task ->data extraction,website testing or form filling.
+web based application:
+Registration/signup->
+selenium Api's ->jars
+1.Ecommerce app:
+purchasing process.
+Add a product
+search product
+enter shipping infor 
+make a payment 
+
+2.Data Scraping:selenium can be used to extract the data like product info or customer reviews.
+
+
+3.Cross browser testing:Website can behave differently on different browsers.it is very imp to ensure that our website should be tested well on all the platforms.
+
+4.Form filling:you can use selenium to automate repeititive tasklike form filling or job applications.
+1000 in my company->Registration 
+useid ,pwd
+
+
+Selenium Components and Architecture
+Selenium IDE"
+
+
+Features of Selenium Tool:
+1.parallel test execution:
+Selenium grid to execute test s in parallet environ. on multiple machine & browser.
+2.Multi language:selenium supports multiple programming language like java,python ,ruby,c#.
+3.Test Framework:you can integrate selenium with other testing framework testng,junit,nunit to create and execute test.
+4.Record and playback:you can record your interaction with web application using selenium iDe and replay the same interaction later to verify that application is working as expected or not.
+
+
+Selenium Grid ,Selenium IDE and Selenium Webdriver:
+Selenium IDE:
+It is browser plugin that allows you to record,write a selenium script so that you can use script for execution of testcases
+
+selenium Grid:
+it is toold that allows you to run your selenium test on multiple machines and browsers in parallel.
+with this ,you can save your time to run multple test scripts.
+
+
+selenium webdriver:
+it is programming interface that allows you to write a code that can interact with web pages using language like java,c#,python.
+
+
+
+
+
+
+
+
+
+
+
+
